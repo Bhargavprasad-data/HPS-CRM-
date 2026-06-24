@@ -4,7 +4,7 @@ A comprehensive Customer Relationship Management (CRM) and Employee Management s
 
 ## Features
 
-This CRM provides three distinct portals tailored to different roles within the organization:
+This CRM provides four distinct portals tailored to different roles within the organization:
 
 ### 1. Admin Panel
 The central hub for organizational oversight and management.
@@ -15,7 +15,15 @@ The central hub for organizational oversight and management.
 - **Invoices & Quotations**: Generate, track, and manage financial documents.
 - **Projects & Tasks**: Monitor active projects, assignments, and overall progress.
 
-### 2. Manager Panel
+### 2. Accountant Panel
+Designed for financial and billing management.
+- **Invoicing & Billing**: Create, send, and track customer invoices.
+- **Quotations**: Generate and manage project quotations.
+- **Payments**: Track incoming payments and manage accounts receivable.
+- **Payroll Assistance**: Review employee payslips and assist with salary processing.
+- **Financial Reports**: View detailed financial analytics and export data.
+
+### 3. Manager Panel
 Designed for middle-management to oversee day-to-day operations and team productivity.
 - **Project Tracking**: Manage assigned projects and track completion status.
 - **Task Pipeline**: Kanban-style board for task assignment and progression.
@@ -23,7 +31,7 @@ Designed for middle-management to oversee day-to-day operations and team product
 - **Customer Interaction**: Manage customer details and relationships.
 - **Reports**: Generate and view operational reports.
 
-### 3. Staff Panel
+### 4. Staff Panel
 A dedicated space for employees to manage their work and personal HR details.
 - **My Projects**: View assigned projects, update progress, and mark tasks as complete.
 - **Attendance**: Clock in/out and view daily attendance history.
