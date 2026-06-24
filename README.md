@@ -1,6 +1,6 @@
-# HPS CRM
+# Harsha Perfect Solutions (HPS) CRM
 
-A comprehensive Customer Relationship Management (CRM) and Employee Management system built with React, Node.js, Express, and PostgreSQL.
+A comprehensive Customer Relationship Management (CRM) and Employee Management system built for Harsha Perfect Solutions (HPS) using React, Node.js, Express, and PostgreSQL.
 
 ## Features
 
